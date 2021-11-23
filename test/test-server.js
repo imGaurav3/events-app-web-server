@@ -22,7 +22,7 @@ describe('GET /', function () {
             //respond with a OK and the specified JSON response
             .reply(200, {
                 "config": {
-                    "version": "1.0.1",
+                    "version": "1.0.2",
                     "team": "Team 4"
                 }
             });
